@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #825B32 ;
+}
+.navbar {
+    padding-top: 20px;
+}
+.nav-item{
+    margin-left: 40px;
+    margin-bottom: 10px;
+
+}
+.nav-link{
+    color: white !important;
+    font-size: 12px !important;
+    padding: 0 0 5px 0 !important;
+    display: unset;
+}
+
+.navbar-brand img{
+    width: 80px;
+    color: aliceblue;
+    filter: invert(1) brightness(1000%);
+   
+}
+.fa-bars{
+    color: white !important;
+    font-size: 40px !important;
+}
+
+.navbar-toggler {
+    border: 0  !important; 
+    outline: none !important;
+    padding: initial !important;
+}
+.active-home {
+    border-bottom: 2px solid white;
+
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid white;
+
+}
+.banner {
+    margin-top: 8px;
+    color: white;
+
+}
+
+.banner h1 {
+    margin: 80px 0 50px;
+    font-size: 30px;
+    font-weight: 700;
+    
+
+}
+
+
+.banner img {
+  max-height: 600px;
+ 
+    
+
+}
+
+.banner a {
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff !important;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+   
+      
+  
+  }
+  .banner a:hover{
+    background-color: #D8A25E;
+    
+  }
+
+.express-btn{
+    color: #000 !important;
+    background-color: #654520;
+    margin-right: 5px;
+    
+
+}
